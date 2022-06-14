@@ -1,4 +1,4 @@
-# Java POO / Java com Spring Boot ☕
+# Java / Java POO ☕
 
 ## Objeto
 - Coisa material ou abstrata que pode ser percebida pelos sentidos e descrita por meio das suas caracteristicas, comportamentos e estado atual.
